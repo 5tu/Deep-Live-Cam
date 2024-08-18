@@ -1,0 +1,1 @@
+python run.py --execution-provider cuda --execution-threads 16 --max-memory 64 --video-quality 5 --keep-fps
